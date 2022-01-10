@@ -1,5 +1,5 @@
 # counter-react-app
-increase and decrease using react app
+This is a prject to create a app increase and decrease count using react app
 
 
 React Hook - Counter Pending
